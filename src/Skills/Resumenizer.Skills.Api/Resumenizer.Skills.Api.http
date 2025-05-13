@@ -1,0 +1,6 @@
+@Resumenizer.Skills.Api_HostAddress = http://localhost:5072
+
+GET {{Resumenizer.Skills.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
